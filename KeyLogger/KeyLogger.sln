@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KeyLogger", "KeyLogger\KeyLogger.pyproj", "{1CE81475-E8D6-4B77-AD1B-1A2510DE5969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CE81475-E8D6-4B77-AD1B-1A2510DE5969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE81475-E8D6-4B77-AD1B-1A2510DE5969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C83B80EB-0842-4F9A-B88C-8D7A33580E9C}
+	EndGlobalSection
+EndGlobal
